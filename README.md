@@ -1,1 +1,1 @@
-## My nwovim config files__2024
+## My neovim config files__2024
