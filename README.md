@@ -1,1 +1,7 @@
-## My neovim config files__2024
+## My neovim config files
+
+```
+Date_Time - Jan 2024
+
+```
+
